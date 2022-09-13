@@ -19,16 +19,16 @@ Após iniciar a execução do Agent Control Center, acesse no Navegador Web o en
 
 No menu lateral, clique em AppDynamics > Agents. Todos os agentes do ambiente da AppDynamics serão listados.
 
-(https://github.com/GustavoPerezYSSY/agent-control-center/blob/main/images/01.AgentsfromAppD.png?raw=true)
+![01](https://github.com/GustavoPerezYSSY/agent-control-center/blob/main/images/01.AgentsfromAppD.png?raw=true)
 
 Para atualizar a versão do agente, clique no "play" correspondendo ao agente
 
 Informe a nova versão do agente e a chave de acesso ao servidor, depois clique em "Create Task".
 
-(https://github.com/GustavoPerezYSSY/agent-control-center/blob/main/images/02.CreateTask.png?raw=true)
+![02](https://github.com/GustavoPerezYSSY/agent-control-center/blob/main/images/02.CreateTask.png?raw=true)
 
 Será criada a tarefa do ansible que está preparado para fazer a atualização de versão do agente.
 
-(https://github.com/GustavoPerezYSSY/agent-control-center/blob/main/images/03.Tasks.png?raw=true)
+![03](https://github.com/GustavoPerezYSSY/agent-control-center/blob/main/images/03.Tasks.png?raw=true)
 
-(https://github.com/GustavoPerezYSSY/agent-control-center/blob/main/images/04.LogFile?raw=true)
+![04](https://github.com/GustavoPerezYSSY/agent-control-center/blob/main/images/04.LogFile?raw=true)
