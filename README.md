@@ -31,4 +31,4 @@ Será criada a tarefa do ansible que está preparado para fazer a atualização 
 
 ![03](https://github.com/GustavoPerezYSSY/agent-control-center/blob/main/images/03.Tasks.png?raw=true)
 
-![04](https://github.com/GustavoPerezYSSY/agent-control-center/blob/main/images/04.LogFile?raw=true)
+![04](https://github.com/GustavoPerezYSSY/agent-control-center/blob/main/images/04.LogFile.png?raw=true)
